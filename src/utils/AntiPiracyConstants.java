@@ -29,7 +29,8 @@ public class AntiPiracyConstants {
         "com.chelpus.lackypatch",                              // Another lucky patcher
         "com.blackmartalpha",                                  // Black Mart alpha
         "org.blackmart.market",                                // Black Mart
-        "com.android.vending.billing.InAppBillingService.LUCK" // Lucky patcher 5.6.8
-        "cc.madkite.freedom"                                   // Freedom
+        "com.android.vending.billing.InAppBillingService.LUCK",// Lucky patcher 5.6.8
+        "cc.madkite.freedom",                                  // Freedom
+        "com.allinone.free"                                    // All-in-one Downloader
     };
 }
