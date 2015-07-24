@@ -66,6 +66,8 @@ public class AntiPiracyNotifyService extends Service {
             mUninstallMethod = AntiPiracyUtils.getUninstallTypes(mPm);
         } catch (NoSuchMethodException WTF) {
             Log.e(TAG, "NoSuchMethodException" + WTF);
+            // Unfortunately, we're finished without this
+            shutdown();
         }
 
         String[] packageNames = PACKAGES;
