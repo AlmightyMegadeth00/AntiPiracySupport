@@ -33,6 +33,7 @@ public class AntiPiracyConstants {
         "cc.madkite.freedom",                                  // Freedom
         "com.allinone.free",                                   // All-in-one Downloader
         "com.repodroid.app",                                   // Get Apk Market
-        "org.creeplays.hack"                                   // CreeHack
+        "org.creeplays.hack",                                  // CreeHack
+        "com.baseappfull.fwd"                                  // Game Hacker
     };
 }
