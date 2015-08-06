@@ -9,7 +9,7 @@ requests are also welcome. For ROM developers interested in using this it makes 
 project directly and then bridge into an existing package with correct perms (like settings).  This way 
 any changes made here to the blacklisted packages and improvements will reach out to everyone.
 
-COMMITS REQUIRED:
+COMMITS REQUIRED: <br />
 http://exodus-developers.net:8000/#/c/819/ <br />
 http://exodus-developers.net:8000/#/c/1018/ <br />
 http://exodus-developers.net:8000/#/c/1127/ 
