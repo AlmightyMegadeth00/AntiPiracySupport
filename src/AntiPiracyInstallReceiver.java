@@ -46,6 +46,7 @@ public class AntiPiracyInstallReceiver extends BroadcastReceiver {
     public void onReceive(Context ctx, Intent intent) {
         Intent notifyService = new Intent(ctx, AntiPiracyNotifyService.class);
         if (DEBUG) Log.i(TAG, "install check event");
+        boolean displayToast = false;
 
         for (String app : PACKAGES) {
             if (DEBUG) Log.e(TAG, "PACKAGE " + app + " testing for install");
@@ -53,11 +54,15 @@ public class AntiPiracyInstallReceiver extends BroadcastReceiver {
                 Log.i("(╯°□°)╯︵ ┻━┻", "Blacklisted packages found: " + app);
                 if (!isServiceRunning(AntiPiracyNotifyService.class, ctx)) {
                     ctx.startService(notifyService);
-                    Toast.makeText(ctx, "Anti-piracy software activated", Toast.LENGTH_LONG).show();
+                    displayToast = true;
                 }
                 break;
             }
         }
+        
+        if (displayToast) {
+			Toast.makeText(ctx, "Anti-piracy software activated", Toast.LENGTH_LONG).show();
+		}
     }
 
     private boolean isServiceRunning(Class<?> serviceClass, Context ctx) {
