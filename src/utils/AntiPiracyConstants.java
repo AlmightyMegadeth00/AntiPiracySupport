@@ -36,6 +36,7 @@ public class AntiPiracyConstants {
         "org.creeplays.hack",                                  // CreeHack
         "com.baseappfull.fwd",                                 // Game Hacker
         "com.zmapp",                                           // Z market
-        "com.dv.marketmod.installer"                           // Hacked play store that gives refunds without uninstalling the apk
+        "com.dv.marketmod.installer",                          // Hacked play store that gives refunds without uninstalling the apk
+        "org.mobilism.android"                                 // Mobilism market
     };
 }
