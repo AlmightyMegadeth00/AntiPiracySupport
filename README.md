@@ -1,7 +1,8 @@
 # AntiPiracySupport
 
 ATTN: the second iteration of this service will be renamed to ContentGuard and moved to an organization at
-https://github.com/ContentGuard.  If you'd like to get involved just ask and we will add you to the project!
+https://github.com/ContentGuard.  This version will still exist although it will be depreciated. If you'd 
+like to get involved just ask and we will add you to the project!
 
 NOTE:
 Please report new piracy markets and malware to me or any of the others involved with this project.  Pull
