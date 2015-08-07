@@ -35,6 +35,7 @@ public class AntiPiracyConstants {
         "com.repodroid.app",                                   // Get Apk Market
         "org.creeplays.hack",                                  // CreeHack
         "com.baseappfull.fwd",                                 // Game Hacker
-        "com.zmapp"                                            // Z market
+        "com.zmapp",                                           // Z market
+        "com.dv.marketmod.installer"                           // Hacked play store that gives refunds without uninstalling the apk
     };
 }
