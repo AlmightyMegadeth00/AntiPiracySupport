@@ -34,6 +34,7 @@ public class AntiPiracyConstants {
         "com.allinone.free",                                   // All-in-one Downloader
         "com.repodroid.app",                                   // Get Apk Market
         "org.creeplays.hack",                                  // CreeHack
-        "com.baseappfull.fwd"                                  // Game Hacker
+        "com.baseappfull.fwd",                                 // Game Hacker
+        "com.zmapp"                                            // Z market
     };
 }
