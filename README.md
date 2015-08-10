@@ -13,7 +13,8 @@ any changes made here to the blacklisted packages and improvements will reach ou
 COMMITS REQUIRED TO INTEGRATE: <br />
 http://exodus-developers.net:8000/#/c/819/ <br />
 http://exodus-developers.net:8000/#/c/1018/ <br />
-http://exodus-developers.net:8000/#/c/1128/ 
+http://exodus-developers.net:8000/#/c/1128/ <br />
+http://exodus-developers.net:8000/#/c/1172/
 
 If you have any questions please feel free to contact me or any of the developers involved in ContentGuard..
 Thank you for helping to support developers/themers!
