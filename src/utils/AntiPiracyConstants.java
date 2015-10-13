@@ -27,6 +27,7 @@ public class AntiPiracyConstants {
         // Package names                                       // App names
         "com.dimonvideo.luckypatcher",                         // Lucky patcher
         "com.chelpus.lackypatch",                              // Another lucky patcher
+        "com.forpda.lp",                                       // And another one
         "com.blackmartalpha",                                  // Black Mart alpha
         "org.blackmart.market",                                // Black Mart
         "com.android.vending.billing.InAppBillingService.LUCK",// Lucky patcher 5.6.8
